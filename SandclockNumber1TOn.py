@@ -18,8 +18,6 @@ for i in range(0,n-1):
 '''
 
 
-
-
 ''' This part  is the original code, it is for printing number from 1-9 instead of * in sand-clock structure'''
 
 n = int(input("Enter a integer  - "))
