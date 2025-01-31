@@ -1,4 +1,8 @@
-'''
+''' This part is given to understand the logic of printing the sandclock
+ the code given below prints * in sandclock shape for a give input inter n 
+
+
+n = int(input("Enter a integer  - "))
 for i in range(0,n):
     for j in range(0,i):
         print(" ",end="")
@@ -13,6 +17,14 @@ for i in range(0,n-1):
     print("")
 '''
 
+
+
+
+
+
+
+
+''' This part is for printing number from 1-9 instead of * in sand-clock structure'''
 
 n = int(input("Enter a integer  - "))
 
